@@ -1,4 +1,4 @@
 name: monke
 password: banan
-money: $49,420,000
+money: $69,420,000
 cars: [5, 3, 2, 1, 4]
