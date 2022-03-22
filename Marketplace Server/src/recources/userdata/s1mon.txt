@@ -1,0 +1,4 @@
+name: s1mon
+psswrd: s1mon
+money: 100
+cars: []

@@ -1,0 +1,11 @@
+id: 2
+name: WeinerMobile
+manifacturer: Chrysler
+country: USA
+year: 1969
+prize: $500,000
+engine: 2.7 Inline 6
+torque: ?
+hp: 123
+peak-rpm: ?
+top-speed: ?

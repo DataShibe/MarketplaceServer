@@ -1,0 +1,11 @@
+id: 5
+name: Bel Air
+manifacturer: Chevrolet
+country: USA
+year: 1953
+prize: $69,000
+engine: 3.8L Inline 6
+torque: 285
+hp: 142
+peak-rpm: 4200
+top-speed: ?

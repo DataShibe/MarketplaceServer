@@ -1,0 +1,11 @@
+id: 3
+name: Timemachine
+manifacturer: BTTF
+country: Nothern Ireland
+year: 1981
+prize: $20,000,000
+engine: 2.7L V6
+torque: 220
+hp: 132
+peak-rpm: 2750
+top-speed: 69420

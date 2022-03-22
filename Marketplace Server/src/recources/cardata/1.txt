@@ -1,0 +1,11 @@
+id: 1
+name: 1989 Mazda MX-5 N/A
+manifacturer: Mazda
+country: Japan
+year: 1989
+prize: $14,000
+engine: 1.6L DOHC Inline 4
+torque: 136
+hp: 115
+peak-rpm: 6500
+top-speed: 188
